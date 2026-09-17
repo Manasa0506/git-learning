@@ -1,3 +1,6 @@
 first one
 second one
 third changes
+6 log master..feat --oneline
+  merge --no-ff feature -m "mer"
+git log --oneline
